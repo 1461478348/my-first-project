@@ -1,0 +1,6 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="pragram" content="no-cache"><meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><link rel="shortcut icon" type="image/x-icon" href="/annotation/favicon.ico"><title>Coovally</title><script defer="defer" src="/annotation/js/chunk-vendors.3eb0127d.js"></script><script defer="defer" src="/annotation/js/app.c798da2c.js"></script><link href="/annotation/css/chunk-vendors.23b39c03.css" rel="stylesheet"><link href="/annotation/css/app.3628a73a.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but annotation doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script src="/annotation/baseUrl.js"></script></body></html><script>var lang = localStorage.getItem('i18n')
+    if ( lang == 'en' ){
+      document.title = "Coovally | AI defines the physical world";
+    } else if( lang == 'zh' ){
+      document.title = "Coovally | 快速落地 AI 解决方案";
+    }</script>
